@@ -23,7 +23,7 @@ For this code challenge I split out the work into the following repositories:
 - More/better error handling & http response messaging would be more thought out (possibly input from product for things that bubble to the client)
 
 ### Testing
-- More testing: continue with non-happy paths, errors, etc, as well as integration type tests that I would set up with a test db, etc and set those up as well on CI.
+- More testing: continue with non-happy paths, errors, etc, as well as integration type tests that I would set up with a test db, etc and set those up as well on CI. This was the first time I've used Angular so I would dive into testing patterns/strategies there as well.
 
 ### DevOps
 - Deployment would be well thought out in terms of where and what type of infrastructure. What are our goals, etc would help dictate whether to go with AWS, GCP, our own in house servers, etc as well as what services.
