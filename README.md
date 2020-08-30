@@ -27,3 +27,6 @@ For this code challenge I split out the work into the following repositories:
 
 ### DevOps
 - Deployment would be well thought out in terms of where and what type of infrastructure. What are our goals, etc would help dictate whether to go with AWS, GCP, our own in house servers, etc as well as what services.
+
+### UI Layer
+- Would love to make todos drag and droppable... Also would split "completed" and "non-completed" into different sections, etc.
