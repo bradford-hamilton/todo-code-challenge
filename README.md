@@ -1,9 +1,12 @@
 # Todo Code Challenge
 For this code challenge I split out the work into the following repositories:
 
-- [Todo Client Repo](https://github.com/bradford-hamilton/todo-client)
-- [Todo API Repo](https://github.com/bradford-hamilton/todo-api)
-- [Todo API Infrastructure](https://github.com/bradford-hamilton/todo-infra)
+- [todo client repo](https://github.com/bradford-hamilton/todo-client)
+- [todo API repo](https://github.com/bradford-hamilton/todo-api)
+- [todo API infrastructure](https://github.com/bradford-hamilton/todo-infra)
+
+## Live Application
+- http://t0d0client.s3-website-us-west-2.amazonaws.com
 
 ## Notes (if this were a production project):
 ### Communication Layer:
